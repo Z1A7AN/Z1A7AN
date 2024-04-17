@@ -32,8 +32,3 @@
 
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/Z1A7AN/Z1A7AN/output/snake.svg" alt="Snake animation" />
-
-###
