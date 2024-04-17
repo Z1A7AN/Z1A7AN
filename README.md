@@ -2,12 +2,7 @@
 <h3 align="center">Aspiring Artificial Intelligence / Machine Learning Engineer</h3>
 
 
-###
 
-✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###
 ###
 
 <div align="center">
