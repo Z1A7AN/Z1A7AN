@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijayaganesh TN</h1>
 <h3 align="center">Aspiring Artificial Intelligence / Machine Learning Engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z1a7an" alt="z1a7an" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/https://twitter.com/weesaiii" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/weesaiii?logo=twitter&style=for-the-badge" alt="https://twitter.com/weesaiii" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
