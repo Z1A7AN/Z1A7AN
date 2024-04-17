@@ -55,7 +55,7 @@
 ###
 ###
 
-<h3 align="left">can we connect ?</h3>
+<h3 align="left">👋, can we connect ?</h3>
 <p align="left">
 <div align="left">
 <a href="https://youtube.com/@weesaiii?feature=shared">
