@@ -21,12 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Z1A7AN/count.svg?"  />
-</div>
-
-###
-
 <h3 align="left">Languages:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -87,3 +81,10 @@
 
 ###
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Z1A7AN/count.svg?"  />
+</div>
+
+###
