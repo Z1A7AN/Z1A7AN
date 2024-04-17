@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Can we Connect ?</h3>
+<h3 align="left">can we connect ?</h3>
 <p align="left">
 <div align="left">
 <a href="Your LinkedIn Profile URL">
