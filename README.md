@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijayaganesh TN</h1>
 <h3 align="center">Aspiring Artificial Intelligence / Machine Learning Engineer.</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/weesaiii" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/weesaiii?logo=twitter&style=for-the-badge" alt="https://twitter.com/weesaiii" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/weesaiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/weesaiii" height="30" width="40" /></a>
