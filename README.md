@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijayaganesh TN</h1>
 <h3 align="center">Aspiring Artificial Intelligence / Machine Learning Engineer</h3>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Z1A7AN/count.svg?"  />
-</div>
-
-###
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -37,7 +30,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Can we Connect ?</h3>
 <p align="left">
 <div align="left">
 <a href="Your LinkedIn Profile URL">
@@ -63,8 +56,15 @@
 
 ###
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Z1A7AN/count.svg?"  />
+</div>
+
 ###
 
+###
+###
 
 
 ###
