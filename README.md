@@ -27,7 +27,27 @@
 </div>
 
 ###
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Z1A7AN/count.svg?"  />
+</div>
+
+###
+
+###
+###
+
+###
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=z1a7an&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+###
 ###
 
 <h3 align="left">can we connect ?</h3>
@@ -53,27 +73,6 @@
 </a>
 
 </div>
-
-###
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Z1A7AN/count.svg?"  />
-</div>
-
-###
-
-###
-###
-
-###
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=z1a7an&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ###
 
