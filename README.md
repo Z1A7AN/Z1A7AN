@@ -1,3 +1,5 @@
+##
+
 <br><br>
 <p align="center">
   <a href="https://ritik.me">
@@ -6,8 +8,4 @@
 </p>
 <br>
 
-# 💫&nbsp; About Me
-- 🚀&nbsp; Fullstack Developer at **[AdeptMind]**
-- 📖&nbsp; Learn more about me on my **[Portfolio]** and **[Resume]**
-- 💻&nbsp; Checkout my cli portfolio, Run `npx ritik` in your terminal
-- 📅&nbsp; Up for a huddle? Schedule a **[Meeting]**
+##
