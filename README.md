@@ -47,14 +47,7 @@
 
 ###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=z1a7an&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-###
 ###
 
 <h3 align="left">👋, can we connect ?</h3>
